@@ -3,4 +3,4 @@
   <img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsiaosiyuan0&layout=compact" />
 </div>
 
-<p>I'm right to some extent while you're right all the time</p>
+<p>I'm right to some extent as well as you're never wrong</p>
